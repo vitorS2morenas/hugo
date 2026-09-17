@@ -1,3 +1,6 @@
-# gdssdgdsg
+# Meus estudos do python 
+Este é meu repositorio dos meus estudos em Python
 
-Meus estudos do python
+# Tópicos
+- Tópico 1
+- Tópico 2
