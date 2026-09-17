@@ -5,5 +5,5 @@ Este é meu repositorio dos meus estudos em Python
 - Tópico 1
 - Tópico 2
 - Tópico 3
-![alt text](https://www.magnific.com/br/fotos-vetores-gratis/python "Python")
+![alt text](imagename.![alt text](imagename.png "Python") "Python")
 
