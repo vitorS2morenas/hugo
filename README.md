@@ -5,4 +5,5 @@ Este é meu repositorio dos meus estudos em Python
 - Tópico 1
 - Tópico 2
 - Tópico 3
-  https://www.magnific.com/br/fotos-vetores-gratis/python
+![alt text](https://www.magnific.com/br/fotos-vetores-gratis/python "Python")
+
